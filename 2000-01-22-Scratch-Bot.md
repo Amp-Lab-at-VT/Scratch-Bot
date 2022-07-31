@@ -3,8 +3,8 @@ layout: project_template
 title: Scratch Bot
 description: Build a small wheeled autonomous bot from scratch. This means building the electric motors, sensors, and support circuity using the simplest pieces possible. Ideally this project will give a deep undertaking of the individual pieces and systems that simply putting together ordered parts misses.
 date: 2000-01-22 09:00:00
-hero_image: /web/img/Scratch-Bot/open_house.png
-image: /web/img/Scratch-Bot/open_house.png
+hero_image: /web/img/Scratch-Bot/Hero.png
+image: /web/img/Scratch-Bot/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
