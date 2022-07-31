@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Michael Senoyuit
-Amy Romero
+author: Michael Senoyuit, Amy Romero
 show_sidebar: false
 ---
 
